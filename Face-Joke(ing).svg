@@ -1,7 +1,4 @@
-
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--其实我想让眼白变成透明的，且不想让眼白里出现cicrle10的笔刷-->
-<!--GOOGLE TRANSLATE TO ENGLISH:Actually, I want the whites of my eyes to be transparent, and I don't want any cicele 10 to appear in them.-->
 <svg
    xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -62,8 +59,8 @@
      id="namedview24"
      showgrid="true"
      inkscape:zoom="2.5598454"
-     inkscape:cx="19.860492"
-     inkscape:cy="93.067924"
+     inkscape:cx="106.84241"
+     inkscape:cy="72.969445"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -182,5 +179,31 @@
        cx="16.407238"
        cy="44.401203"
        r="6.5" />
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot844"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-32.033182,-30.861239)"><flowRegion
+         id="flowRegion846"
+         style="line-height:0.25"><rect
+           id="rect848"
+           width="283.61087"
+           height="378.53848"
+           x="32.033184"
+           y="42.838608"
+           style="line-height:0.25" /></flowRegion><flowPara
+         id="flowPara850"
+         style="font-size:13.33333302px;line-height:0.25">&lt;!--其实我想让眼白变成透明的，且不想让眼白里出现cicrle10的笔刷--&gt;&lt;!--GOOGLE TRANSLATE TO ENGLISH:Actually, I want the whites of my eyes to be transparent, and I don't want any cicele 10 to appear in them.--&gt;</flowPara><flowPara
+         id="flowPara852"
+         style="font-size:13.33333302px;line-height:0.25" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot854"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion856"><rect
+           id="rect858"
+           width="230.09203"
+           height="55.472099"
+           x="32.033184"
+           y="80.731522" /></flowRegion><flowPara
+         id="flowPara860"></flowPara></flowRoot>  </g>
 </svg>
